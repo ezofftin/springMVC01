@@ -30,7 +30,7 @@
 		</div>
 
 		<div class="form-group">
-			<label for="contents">내용</label>
+			<label for="contents">글내용</label>
 			<textarea class="form-control" id="contents" 
 				name="contents" rows="4" disabled>${board.contents}</textarea>
 		</div>
